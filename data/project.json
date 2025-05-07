@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "cmk3577",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165967247?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "cmk3577",
     "is_private": false,
@@ -22,6 +28,7 @@
       "tags": []
     },
     "created_at": "2025-04-02T21:53:45.095Z",
-    "updated_at": "2025-04-02T21:53:45.095Z"
+    "updated_at": "2025-04-02T21:53:45.095Z",
+    "generate_pages_site": true
   }
 }
